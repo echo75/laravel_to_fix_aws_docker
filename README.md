@@ -3,5 +3,5 @@
 - Backend: Laravel
 - Frontend: Vue.js
 - API von Omdb
-- Docker
-- Deployes auf AWS
+- Docker-Setup
+- Deployed auf AWS
